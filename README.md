@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**cleiton1996/cleiton1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cleiton Welter Santos
 
-Here are some ideas to get you started:
+- Estou estudando na [ALura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de programação JavaScript
+- Utilizo desse espaço para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+cleiton.welter.santos@escola.pr.gov.br 
+
+@cleitonwelter23
+
+![](https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif)
